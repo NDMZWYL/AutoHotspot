@@ -1,5 +1,4 @@
 # AutoHotspot
-# AutoHotspot
 
 一个轻量级的 Windows PowerShell 脚本，用于监控有线网络连接，并自动开启或关闭移动热点。
 
