@@ -17,10 +17,13 @@
 
 ## 使用方法
 
-### 1. 配置热点
+### 1下载脚本
+点击页面右上方的绿色 `<> Code` 按钮，选择 `Download ZIP`。解压后，将 `AutoHotspot.ps1` 文件放到电脑的任意目录下（例如 `C:\Scripts\`）。
+
+### 2配置热点
 在 Windows 设置中，进入 **网络和 Internet > 移动热点**，设置好热点名称和密码，并关闭“未连接设备时自动关闭移动热点”选项。
 
-### 2. 运行脚本
+### 3运行脚本
 以管理员身份打开 PowerShell，执行以下命令：
 ```powershell
 Set-ExecutionPolicy -Scope Process Bypass -Force
